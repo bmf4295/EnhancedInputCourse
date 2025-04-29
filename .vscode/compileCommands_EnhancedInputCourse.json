@@ -1,0 +1,58 @@
+[
+	{
+		"file": "C:\\Users\\bfrie\\OneDrive\\Desktop\\EnhancedInputCourse\\Source\\EnhancedInputCourse\\EnhancedInputCourse.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\bfrie\\OneDrive\\Desktop\\EnhancedInputCourse\\.vscode\\compileCommands_EnhancedInputCourse\\EnhancedInputCourse.1.rsp"
+		],
+		"directory": "D:\\UnrealEngine\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\bfrie\\OneDrive\\Desktop\\EnhancedInputCourse\\Source\\EnhancedInputCourse\\EnhancedInputCourse.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\bfrie\\OneDrive\\Desktop\\EnhancedInputCourse\\.vscode\\compileCommands_EnhancedInputCourse\\EnhancedInputCourse.1.rsp"
+		],
+		"directory": "D:\\UnrealEngine\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\bfrie\\OneDrive\\Desktop\\EnhancedInputCourse\\Source\\EnhancedInputCourse\\EnhancedInputCourse.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\bfrie\\OneDrive\\Desktop\\EnhancedInputCourse\\.vscode\\compileCommands_EnhancedInputCourse\\EnhancedInputCourse.1.rsp"
+		],
+		"directory": "D:\\UnrealEngine\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\bfrie\\OneDrive\\Desktop\\EnhancedInputCourse\\Source\\EnhancedInputCourse\\EnhancedInputCourseCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\bfrie\\OneDrive\\Desktop\\EnhancedInputCourse\\.vscode\\compileCommands_EnhancedInputCourse\\EnhancedInputCourse.1.rsp"
+		],
+		"directory": "D:\\UnrealEngine\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\bfrie\\OneDrive\\Desktop\\EnhancedInputCourse\\Source\\EnhancedInputCourse\\EnhancedInputCourseCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\bfrie\\OneDrive\\Desktop\\EnhancedInputCourse\\.vscode\\compileCommands_EnhancedInputCourse\\EnhancedInputCourse.1.rsp"
+		],
+		"directory": "D:\\UnrealEngine\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\bfrie\\OneDrive\\Desktop\\EnhancedInputCourse\\Source\\EnhancedInputCourse\\EnhancedInputCourseGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\bfrie\\OneDrive\\Desktop\\EnhancedInputCourse\\.vscode\\compileCommands_EnhancedInputCourse\\EnhancedInputCourse.1.rsp"
+		],
+		"directory": "D:\\UnrealEngine\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\bfrie\\OneDrive\\Desktop\\EnhancedInputCourse\\Source\\EnhancedInputCourse\\EnhancedInputCourseGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\bfrie\\OneDrive\\Desktop\\EnhancedInputCourse\\.vscode\\compileCommands_EnhancedInputCourse\\EnhancedInputCourse.1.rsp"
+		],
+		"directory": "D:\\UnrealEngine\\UE_5.5\\Engine\\Source"
+	}
+]
